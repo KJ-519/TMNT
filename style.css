@@ -1,0 +1,24 @@
+* {
+background-color: #4c9c23;
+}
+
+h1 {
+color:black;
+display: flex;
+justify-content: center;
+align-content: center;
+font-family:"Bangers", system-ui;
+}
+
+.Pizza{
+color: white
+}
+
+.Color{
+color: white
+}
+
+.quiz{
+color: white
+font-weight 100;
+}

@@ -11,14 +11,48 @@ font-family:"Bangers", system-ui;
 }
 
 .Pizza{
-color: white
+color: white;
 }
 
 .Color{
-color: white
+color: white;
 }
 
 .quiz{
-color: white
-font-weight 100;
+color: black;
+font-weight: 100;
 }
+
+.message {
+    font-family:"Bangers", system-ui;
+}
+
+.LeoImg {
+width: 30%;
+height: 50%;
+display: none;
+}
+
+.RaphImg {
+width: 30%;
+height: 50%;
+display: none;
+    }
+
+.MikeyImg {
+width: 30%;
+height: 50%;
+display: none;
+        }
+
+.DonnieImg {
+width: 30%;
+height: 50%;
+display: none;
+            }
+
+.PlayAgain {
+color: black;
+font-weight: 100;
+display: none;
+        }
